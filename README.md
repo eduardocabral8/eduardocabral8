@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo Emanuel Cabral</h1>
 
 <p align="center">
-  Full-stack developer — TypeScript across the stack.<br/>
+  Full-stack developer<br/>
   I build web apps with NestJS, React and Prisma. Based in Argentina.
 </p>
 
