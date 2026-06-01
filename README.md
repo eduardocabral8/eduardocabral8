@@ -23,7 +23,7 @@
 ## Featured projects
 
 ### El Jardín de las Respuestas
-A full-stack platform for sex education (ESI) and free gynecological support: content library, moderated forum, virtual consulting room and an AI chatbot. Built in a team of five — I led development as the main contributor.
+A full-stack platform for sex education (ESI) and free gynecological support: content library, moderated forum, virtual consulting room and an AI chatbot. Built in a team of five.
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
@@ -37,7 +37,7 @@ A full-stack platform for sex education (ESI) and free gynecological support: co
 <a href="https://github.com/el-jardin-de-las-respuestas/el-jardin-de-las-respuestas"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 ### TickPanic
-A real-time multiplayer word game where the timer never forgives. Built with Clean Architecture, WebSockets and TDD — the domain logic is fully decoupled from network and persistence, backed by 280+ tests.
+A real-time multiplayer word game where the timer never forgives. Built with Clean Architecture, WebSockets and TDD, the domain logic is fully decoupled from network and persistence, backed by 280+ tests.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -51,7 +51,7 @@ A real-time multiplayer word game where the timer never forgives. Built with Cle
 <a href="https://github.com/eduardocabral8/tick-panic"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 ### Job Log
-A Chrome extension that logs your LinkedIn job applications into a Google Sheet automatically, using the Gemini API to extract each posting's data. Runs entirely in the browser — no servers.
+A Chrome extension that logs your LinkedIn job applications into a Google Sheet automatically, using the Gemini API to extract each posting's data. Runs entirely in the browser, no servers.
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -62,7 +62,7 @@ A Chrome extension that logs your LinkedIn job applications into a Google Sheet 
 <a href="https://github.com/eduardocabral8/job-log"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 ### Telecom Billing
-A monthly phone-billing system modeling local, national and international calls with time-based pricing. An exercise in clean OOP — abstract base classes, inheritance and domain logic.
+A monthly phone-billing system modeling local, national and international calls with time-based pricing. An exercise in clean OOP, abstract base classes, inheritance and domain logic.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
