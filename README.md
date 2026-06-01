@@ -71,14 +71,6 @@ A monthly phone-billing system modeling local, national and international calls 
 
 <a href="https://github.com/eduardocabral8/phone-billing-challenge"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
----
-
-## Now
-
-- Training as a full-stack developer at Fundación Formar.
-- Going deeper on backend architecture, testing and deployment.
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emanuelcabral8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
