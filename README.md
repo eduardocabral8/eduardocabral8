@@ -22,7 +22,7 @@
 ## Featured projects
 
 ### El Jardín de las Respuestas
-A full-stack platform for sex education (ESI) and free gynecological support: content library, moderated forum, virtual consulting room and an AI chatbot. Built in a team of five.
+A full-stack platform for sex education (ESI) and free gynecological support: content library, moderated forum and a virtual consulting room. Built in a team of five.
 
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
