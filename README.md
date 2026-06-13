@@ -1,4 +1,4 @@
-<h1 align="center">Eduardo Emanuel Cabral</h1>
+<h1 align="center">Emanuel Cabral</h1>
 
 <p align="center">
   Full-stack developer<br/>
